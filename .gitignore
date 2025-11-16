@@ -1,0 +1,17 @@
+# Root Visual Studio folder
+.vs/
+
+# Root log or temporary files
+*.log
+*.tmp
+
+# Git attributes file (optional, already tracked)
+.gitattributes
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore any other files you don’t want at the root
+*.user
+*.suo
